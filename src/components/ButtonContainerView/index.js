@@ -1,4 +1,4 @@
-import {ButtonContainer, Button, ButtonImage} from './StyledComponents'
+import {ButtonContainer, Button, ButtonImage} from './styledComponents'
 
 const ButtonContainerView = props => {
   const {buttonItems, onGetGame} = props

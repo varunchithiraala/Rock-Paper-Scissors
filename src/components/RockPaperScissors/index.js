@@ -20,7 +20,7 @@ import {
   CloseButtonContainer,
   CloseButton,
   ChoiceButton,
-} from './StyledComponents'
+} from './styledComponents'
 
 class RockPaperScissors extends Component {
   state = {

@@ -8,7 +8,7 @@ import {
   ResultImage,
   ResultButtonContainer,
   PlayAgainButton,
-} from './StyledComponents'
+} from './styledComponents'
 
 const GameResultsView = props => {
   const {myChoice, systemChoice, resultText, playAgain} = props
